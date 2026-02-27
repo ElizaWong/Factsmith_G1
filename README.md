@@ -1,7 +1,8 @@
 # Instructions to set up this project!
 
-Frontend - uses HTMl/CSS/JavaScript/ React Framework
+Frontend - uses HTML/CSS/JavaScript/ React Framework
 
+## Downloads
 
 1. Download git (version control software to download code)
 - https://git-scm.com/install/
@@ -43,7 +44,7 @@ Now you should be able to go to `localhost:5173` on your web browser and you sho
 
 ## Uploading code
 Uploading your changes are a bit complicated - if two people edit the same piece of code there will be merge conflicts which are difficult to deal with! So it's best to communicate who is doing what.
-
+This will only work when you have made a GitHub account and have access to the repository.
 Uploading code:
 ``` shell
 git add .
