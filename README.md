@@ -56,6 +56,11 @@ After someone has uploaded / pushed their code, everyone needs to download / pul
 git pull origin main
 ```
 
+## Editing Code
+Everything probably looks very foreign, just ignore everything except the src/ folder.
+src/ contains all the code that you guys will be editing. You do not need to touch anything else.
+
+
 ## Deployment
 Deployment will be done later with github pages.
 If you need help with anything else ask @ElizaWong
